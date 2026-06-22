@@ -1,1 +1,1 @@
-# Analisis-Sentimen-Review-pengunjung-Google-Maps-Berbasis-Algoritma-Naive-Baye
+# Analisis-Sentimen-Review-pengunjung-Google-Maps-Berbasis-Algoritma-Naive-Bayes
